@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<div align=center>
+	
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwander0220)](https://hits.seeyoufarm.com)
+  
+  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/)](https://www.facebook.com/)
+	
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:)](mailto:)
+</div>
+
 <!--
 **wander0220/wander0220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
